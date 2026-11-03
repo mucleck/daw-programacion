@@ -16,3 +16,7 @@ Para:
 
 - crear un proyecto en una ruta ./commands.sh createProject RUTA
 - ejecutar la clase principal de un proyecto ./commands.sh run RUTA
+
+## > [!IMPORTANT]
+
+> Añadir tests para todos los ejercicios
